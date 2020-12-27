@@ -8,7 +8,7 @@ A part will be designed as follows:
 
 Where:
 
-      the first number design the module; 
+      the first number design the module 
         4 for solar panels
       the second number desgin the subset
         1 for panels per se
