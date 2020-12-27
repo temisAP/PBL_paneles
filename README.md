@@ -22,7 +22,9 @@ Where:
             Subset 3:
             Subset 4:
               1 for hinges between panels
-              2 for hinges between first panel and triangle support
+              2 for hinges between first panel and triangular support
+            Subset 5:
+              1 for triangular support
       the two numbers after low bar enumerates the part within the product
   
 ## About parametrization
@@ -34,13 +36,27 @@ Every part will be parametrized independently and then all parameters will be se
 
 ### Subsets
 
+      41: Solar panels 
+      42: Release mechanism
+      43: SADA mechanism
       44: Hinge joints
+      45: Estructural subsets
 
 ### Products
+
+Solar panels 
+
+Release mechanism
+
+SADA mechanism
 
 Hinge joints
 
       441: Hinge between panels
+
+Estructural subsets
+      
+      451: Triangular support
 
 ### Parts
 
@@ -53,6 +69,10 @@ Hinge between panels
       441_05: Hinge axis nuts
       441_06: Hinge axis ball which blocks the hinge when it is opened
       441_07: Hinge axis spring which push the ball outside
+ 
+ Triangular support
+ 
+      451_01: Triangular support
 
 
 
