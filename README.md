@@ -8,23 +8,12 @@ A part will be designed as follows:
 
 Where:
 
-      the first number design the module 
-        4 for solar panels
-      the second number desgin the subset
-        1 for panels per se
-        2 for release mechanism
-        3 for SADA mechanism
-        4 for hinge joints
-        5 for estructural subsets
+      the first number design the module within the whole project
+
+      the second number desgin the subset within the module
+
       the third number desgin the product within the subset
-            Subset 1:
-            Subset 2:
-            Subset 3:
-            Subset 4:
-              1 for hinges between panels
-              2 for hinges between first panel and triangular support
-            Subset 5:
-              1 for triangular support
+
       the two numbers after low bar enumerates the part within the product
   
 ## About parametrization
