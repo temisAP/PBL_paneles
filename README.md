@@ -50,8 +50,9 @@ Hinge between panels
       441_02: Inner wing of the hinge
       411_03: Hinge spring
       411_04: Hinge axis
-      411_05: Hinge axis ball which blocks the hinge when it is opened
-      411_06: Hinge axis spring which push the ball outside
+      411_05: Hinge axis nuts
+      411_06: Hinge axis ball which blocks the hinge when it is opened
+      411_07: Hinge axis spring which push the ball outside
 
 
 
