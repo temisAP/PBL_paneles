@@ -27,7 +27,7 @@ Where:
   
 ## About parametrization
 
-Every part will be parametrized independently and then all parameters will be set and linked in a single CATPart called 'PARAMETROS'
+Every part will be parametrized independently and then all parameters will be set and linked in a single CATPart called 'PARAMETROS' which is a product that contains parameter parts named as their product
  
 
 ## Subsets, products, and parts 
