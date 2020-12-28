@@ -55,9 +55,7 @@ Hinge between panels
       441_02: Inner wing of the hinge
       441_03: Hinge spring
       441_04: Hinge axis
-      441_05: Hinge axis nuts
-      441_06: Hinge axis ball which blocks the hinge when it is opened
-      441_07: Hinge axis spring which push the ball outside
+      441_05: Spring plunger(M3)
  
  Triangular support
  
