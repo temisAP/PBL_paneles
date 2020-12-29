@@ -48,6 +48,10 @@ Estructural subsets
       
       451: Triangular support
 
+Solar cells
+
+      461: Solar cells module
+
 ### Parts
 
 Hinge between panels
@@ -58,14 +62,15 @@ Hinge between panels
       441_04: Hinge axis
       441_05: Spring plunger(M3)
  
- Triangular support
+Triangular support
  
       451_01: Triangular support
 
+Solar cells
 
-
-
-
-
-      
+      461_01: Base
+      461_02: Connecting plate
+      461_03: Connectors
+      461_04: Cell interconnectors
+      461_05: Solar cells
    
