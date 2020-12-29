@@ -30,6 +30,7 @@ Every part will be parametrized independently and then all parameters will be se
       43: SADA mechanism
       44: Hinge joints
       45: Estructural subsets
+      46: Solar cells
 
 ### Products
 
