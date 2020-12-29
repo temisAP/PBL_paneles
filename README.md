@@ -68,9 +68,10 @@ Triangular support
 
 Solar cells
 
-      461_01: Base
+      461_01: Aluminium base
       461_02: Connecting plate
-      461_03: Connectors
-      461_04: Cell interconnectors
-      461_05: Solar cells
+      461_03: Cell interconnectors
+      461_04: Triple Junction solar Cell Assembly 3G30A
+      461_05: Connectors base plate
+      461_06: Molex 5040500000-SD connector
    
