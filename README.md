@@ -73,5 +73,4 @@ Solar cells
       461_03: Cell interconnectors
       461_04: Triple Junction solar Cell Assembly 3G30A
       461_05: Connectors base plate
-      461_06: Molex 5040500000-SD connector
-   
+      461_06: Molex Pico-Lock 1.50 mm pitch, right angle, 504050-0491
