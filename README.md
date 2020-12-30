@@ -24,7 +24,7 @@ Every part will be parametrized independently and then all parameters will be se
 ## Subsets, products, and parts 
 
 ### Subsets
-
+      40: Solar pannel assembly
       41: Solar panels 
       42: Release mechanism
       43: SADA mechanism
