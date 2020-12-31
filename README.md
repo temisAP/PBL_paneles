@@ -40,6 +40,11 @@ Release mechanism
 
 SADA mechanism
 
+      43: 431, 432 and 433
+      431: Motor, Encoder, Gearbox, Axis and Gears
+      432: T shaped mechanisms support
+      433: Anchoring structure
+
 Hinge joints
 
       441: Hinge between panels
@@ -53,6 +58,13 @@ Solar cells
       461: Solar cells module
 
 ### Parts
+
+SADA mechanism
+
+      431_01: Motor
+      432_02: Gearbox
+      433_03: Axis
+      434_04: Gears
 
 Hinge between panels
 
