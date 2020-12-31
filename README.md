@@ -37,6 +37,9 @@ Every part will be parametrized independently and then all parameters will be se
 Solar panels 
 
 Release mechanism
+      42: 421
+      421: deployment
+      
 
 SADA mechanism
 
@@ -59,7 +62,13 @@ Solar cells
       461: Solar cells module
 
 ### Parts
-
+Release mechanism
+      421_01: Base
+      421_02: Claw
+      421_03: Spring
+      421_04: Spring2
+      421_05: Parameters
+  
 SADA mechanism
 
       431_01: Motor 
