@@ -66,13 +66,16 @@ Solar cells
       461: Solar cells module
 
 ### Parts
+
 Solar panels
+
       411_01: 
       411_02: 
       411_03: 
       411_04: 
       411_05: 
       412_01: Aluminium panel
+      
 
 Release mechanism
 
