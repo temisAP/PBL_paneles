@@ -53,6 +53,7 @@ SADA mechanism
 Hinge joints
 
       441: Hinge between panels
+      442: Hinge between triangular support and panels
 
 Estructural subsets
       
@@ -95,6 +96,14 @@ Hinge between panels
       441_03: Hinge spring
       441_04: Hinge axis
       441_05: Spring plunger(M3)
+
+Hinge between triangular support and panels
+
+      442_01: Outter wing of the hinge
+      442_02: Inner wing of the hinge
+      442_03: Hinge spring
+      442_04: Hinge axis
+      442_05: Spring plunger(M3)
  
 Triangular support
  
