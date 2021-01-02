@@ -35,6 +35,8 @@ Every part will be parametrized independently and then all parameters will be se
 ### Products
 
 Solar panels 
+      411: Sandwitch panel
+      412: Aluminium panel
 
 Release mechanism
       42: 421
@@ -62,6 +64,14 @@ Solar cells
       461: Solar cells module
 
 ### Parts
+Solar panels
+      411_01: 
+      411_02: 
+      411_03: 
+      411_04: 
+      411_05: 
+      412_01: Aluminium panel
+
 Release mechanism
       421_01: Base
       421_02: Claw
