@@ -34,8 +34,9 @@ Every part will be parametrized independently and then all parameters will be se
 
 ### Products
 
-Solar panels 
-      411: Sandwitch panel
+Solar panels
+
+      411: Sandwich panel
       412: Aluminium panel
 
 Release mechanism
