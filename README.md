@@ -90,8 +90,11 @@ SADA mechanism
 
       431_01: Motor+Gearbox
       431_02: Axis
-      431_03: Gears
-      431_04: Encoder
+      431_03: Motor gear
+      431_04: Axis gear
+      431_05: Encoder
+      431_06: Motor-Gear Retaining ring (DIN 471)
+      431_07: Axis-Gear Retaining ring (DIN 471)
       
       432_01: Upper shell
       432_02: Lower shell
