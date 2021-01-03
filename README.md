@@ -69,11 +69,10 @@ Solar cells
 
 Solar panels
 
-      411_01: 
-      411_02: 
-      411_03: 
-      411_04: 
-      411_05: 
+      411_01: Honeycomb core
+      411_02: Upper Carbon Fiber
+      411_03: Lower Carbon Fiber
+      411_04: Insert
       
       412_01: Aluminium panel
       
