@@ -47,7 +47,7 @@ Release mechanism
 SADA mechanism
 
       43: 431, 432 and 433
-      431: Motor, Gearbox, Axis, Gears and Encoder
+      431: Motor+Gearbox, Axis, Gears and Encoder
       432: T shaped mechanisms support
       433: Anchoring structure
       434: Bolts & nuts
@@ -88,11 +88,10 @@ Release mechanism
   
 SADA mechanism
 
-      431_01: Motor 
-      431_02: Gearbox
-      431_03: Axis
-      431_04: Gears
-      431_05: Encoder
+      431_01: Motor+Gearbox
+      431_02: Axis
+      431_03: Gears
+      431_04: Encoder
       
       432_01: Upper shell
       432_02: Lower shell
