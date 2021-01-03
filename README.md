@@ -34,7 +34,8 @@ Every part will be parametrized independently and then all parameters will be se
 
 ### Products
 
-Solar panels 
+Solar panels
+
       411: Sandwitch panel
       412: Aluminium panel
 
