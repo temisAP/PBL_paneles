@@ -65,6 +65,7 @@ Estructural subsets
 Solar cells
 
       461: Solar cells module
+      462: Solar cells (without aluminium base)
 
 ### Parts
 
@@ -132,3 +133,6 @@ Solar cells
       461_04: Triple Junction solar Cell Assembly 3G30A
       461_05: Connectors base plate
       461_06: Molex Pico-Lock 1.50 mm pitch, right angle, 504050-0491
+
+      462_01: Cell interconnectors
+      462_02: Solar Cells
