@@ -24,6 +24,7 @@ Every part will be parametrized independently and then all parameters will be se
 ## Subsets, products, and parts 
 
 ### Subsets
+
       40: Solar pannel assembly
       41: Solar panels 
       42: Release mechanism
@@ -31,6 +32,7 @@ Every part will be parametrized independently and then all parameters will be se
       44: Hinge joints
       45: Estructural subsets
       46: Solar cells
+      47: Harness
 
 ### Products
 
@@ -111,7 +113,7 @@ Hinge between panels
       441_02: Inner wing of the hinge
       441_03: Hinge spring
       441_04: Hinge axis
-      441_05: Spring plunger(M3)
+      441_05: Spring plunger (M3)
 
 Hinge between triangular support and panels
 
@@ -119,7 +121,7 @@ Hinge between triangular support and panels
       442_02: Inner wing of the hinge
       442_03: Hinge spring
       442_04: Hinge axis
-      442_05: Spring plunger(M3)
+      442_05: Spring plunger (M3)
  
 Triangular support
  
@@ -136,3 +138,7 @@ Solar cells
 
       462_01: Cell interconnectors
       462_02: Solar Cells
+
+Harness
+
+      471_01:__..
