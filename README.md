@@ -78,6 +78,8 @@ Solar panels
       411_03: Lower Carbon Fiber
       411_04: Insert
       411_05: Potting compound
+      411_06: Release insert
+      411_07: Release potting compound
       
       412_01: Aluminium panel
       
