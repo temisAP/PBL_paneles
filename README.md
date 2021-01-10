@@ -77,6 +77,7 @@ Solar panels
       411_02: Upper Carbon Fiber
       411_03: Lower Carbon Fiber
       411_04: Insert
+      411_05: Potting compound
       
       412_01: Aluminium panel
       
