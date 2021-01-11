@@ -33,8 +33,13 @@ Every part will be parametrized independently and then all parameters will be se
       45: Estructural subsets
       46: Solar cells
       47: Harness
+      48: Hardware
 
 ### Products
+
+Solar panels assemly
+
+      401: Solar panels
 
 Solar panels
 
@@ -69,7 +74,19 @@ Solar cells
       461: Solar cells module
       462: Solar cells (without aluminium base)
 
+Hardware
+
+      481: M3 Screw + Nut + Washer
+
+
 ### Parts
+
+Solar panels
+
+      401_01: Sandwitch panel with cells
+      401_02: Cupon with screws
+      401_03: Aluminium panel with cupons
+
 
 Solar panels
 
