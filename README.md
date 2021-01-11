@@ -25,6 +25,7 @@ Every part will be parametrized independently and then all parameters will be se
 
 ### Subsets
 
+      4_GUI: Graphic User Interface
       40: Solar pannel assembly
       41: Solar panels 
       42: Release mechanism
@@ -36,6 +37,11 @@ Every part will be parametrized independently and then all parameters will be se
       48: Hardware
 
 ### Products
+
+Graphic User Interface
+
+      GUI_PBL.mlapp
+      Image
 
 Solar panels assemly
 
