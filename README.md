@@ -54,10 +54,12 @@ Release mechanism
 
 SADA mechanism
 
-      43: 431, 432 and 433
-      431: Motor, Gearbox, Axis, Encoder and case
-      432: T shaped adapter
-      433: Bolts & nuts
+      43: 431, 432, 433, 434 and 435
+      431: Motor (with its encoder)
+      432: Gearbox
+      433: Case
+      434: T-shaped adapter
+      435: Bolts & nuts
 
 Hinge joints
 
@@ -111,17 +113,17 @@ Release mechanism
 SADA mechanism
 
       431_01: Motor
-      431_02: Axis
-      431_03: Motor gear
-      431_04: Axis gear
-      431_05: Encoder
-      431_06: Upper case
-      431_07: Lower case
-      431_08: Retaining rings (DIN 471)
-      431_09: Bearings
+      431_02: Encoder
       
-      432_01: T-shaped adapter
+      432_01: Motor gear
+      432_02: Output axis gear
+      432_03: Retaining rings (DIN 471)
+      432_04: Bearings
+            
+      433_01: Upper case
+      433_02: Lower case
       
+      434_01: T-shaped adapter
 
 Hinge between panels
 
