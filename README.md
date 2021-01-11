@@ -94,7 +94,7 @@ Solar panels
       411_01: Honeycomb core
       411_02: Upper Carbon Fiber
       411_03: Lower Carbon Fiber
-      411_04: Insert
+      411_04: Insert Shur-Lok SL644
       411_05: Potting compound
       411_06: Release insert
       411_07: Release potting compound
