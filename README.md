@@ -66,6 +66,7 @@ SADA mechanism
       433: Case
       434: T-shaped adapter
       435: Bolts & nuts
+      434: Opcion SADA centro
 
 Hinge joints
 
