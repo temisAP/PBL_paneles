@@ -81,6 +81,12 @@ Solar cells
       461: Solar cells module
       462: Solar cells (without aluminium base)
 
+Harness
+      471:
+      472:
+      473:
+      474: Fake harness (Composite panel)
+
 Hardware
 
       481: M3 Screw + Nut + Washer
@@ -169,4 +175,7 @@ Solar cells
 Harness
 
       471_01:__..
+
       473_01: Terminal block
+
+      474_01: Fake harness (composite panel)
