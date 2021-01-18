@@ -82,10 +82,11 @@ Solar cells
       462: Solar cells (without aluminium base)
 
 Harness
-      471:
-      472:
-      473:
-      474: Fake harness (Composite panel)
+
+      471: 
+      472: 
+      473: 
+      474: Fake harness (composite panel)
 
 Hardware
 
