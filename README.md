@@ -169,3 +169,4 @@ Solar cells
 Harness
 
       471_01:__..
+      473_01: Terminal block
