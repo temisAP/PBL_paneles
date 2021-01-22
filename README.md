@@ -86,8 +86,11 @@ Harness
       471: 
       472: 
       473: 
-      474: Fake harness (composite panel)
+      474: Fake harness 1 (composite panel)
       475: Aluminium pannel connectors
+      476:
+      477:
+      478: Fake harness 2 (composite panel)
 
 Hardware
 
@@ -180,7 +183,7 @@ Harness
 
       473_01: Terminal block
 
-      474_01: Fake harness (composite panel)
+      474_01: Fake harness 1 (composite panel)
 
       475_01: Clamp
       475_02: https://www.harwin.com/products/G125-2240696F1/
@@ -188,6 +191,8 @@ Harness
 
       476_01: https://www.harwin.com/products/G125-FS10605F2R/
       476_02: https://www.harwin.com/products/G125-3240696M3/
+
+      478_01: Fake harness 2 (composite panel)
 
 
 
