@@ -45,7 +45,7 @@ for root, dirs, files in os.walk(subdir_path[1]):
 
 
 # Activate document
-catia.Documents.Open(r'C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\S1\IGA\PBL\PBL_paneles\40\401\401_01.CATProduct')
+#catia.Documents.Open(r'C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\S1\IGA\PBL\PBL_paneles\40\401\401_01.CATProduct')
 
 doc = catia.ActiveDocument.Product
 for i in range(doc.Products.Count):
