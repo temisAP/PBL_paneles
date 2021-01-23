@@ -83,13 +83,13 @@ Solar cells
 
 Harness
 
-      471: 
-      472: 
+      471: Aluminium pannel harness #1
+      472: Aluminium pannel harness #2
       473: 
       474: Fake harness 1 (composite panel)
       475: Aluminium pannel connectors
-      476:
-      477:
+      476: Aluminium pannel harness #3
+      477: Aluminium pannel harness #4
       478: Fake harness 2 (composite panel)
 
 Hardware
@@ -179,20 +179,56 @@ Solar cells
 
 Harness
 
-      471_01:__..
+      471_GB: Geometrical Bundle
+      471_01: Wire 1
+      471_02: Wire 2
+      471_03: Wire 3
+      471_04: Wire 4
+      471_05: Molex Pico-Lock 1.50 mm pitch, right angle, 504051-0401
+      471_06: Clamp
+
+      472_GB: Geometrical Bundle
+      472_01: Wire 1
+      472_02: Wire 2
+      472_03: Wire 3
+      472_04: Wire 4
+      472_05: Molex Pico-Lock 1.50 mm pitch, right angle, 504051-0401
+      472_06: Clamp
+
+
+
 
       473_01: Terminal block
 
-      474_01: Fake harness 1 (composite panel)
+      474_01: Fake harness 1 (Composite panel)
 
       475_01: Clamp
       475_02: https://www.harwin.com/products/G125-2240696F1/
       475_03: https://www.harwin.com/products/G125-324069600/
 
-      476_01: https://www.harwin.com/products/G125-FS10605F2R/
-      476_02: https://www.harwin.com/products/G125-3240696M3/
+      47.._01: https://www.harwin.com/products/G125-FS10605F2R/
+      47.._02: https://www.harwin.com/products/G125-3240696M3/
 
-      478_01: Fake harness 2 (composite panel)
+
+      476_01: Clamp
+      476_GB: Geometrical Bundle
+      476_02: Wire
+
+      477_GB_1: Geometrical Bundle 1
+      477_01: Wire 1
+      477_02: Wire 2
+      477_03: Wire 3
+      477_04: Wire 4
+      477_05: Molex Pico-Lock 1.50 mm pitch, right angle, 504051-0401
+      477_06: Clamp
+      477_07: Conection Box
+      477_GB_2: Geometrical Bundle 2
+      477_08: Wire 1
+      477_09: Wire 2
+      477_10: Wire 3
+      477_11: Wire 4
+
+      478_01: Fake harness 2 (Composite panel)
 
 
 
