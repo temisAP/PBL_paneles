@@ -56,9 +56,9 @@ def Extract_Properties(df, main_path):
     for parts in matching:
         CATIA.Documents.Open(parts[0])
         doc = CATIA.ActiveDocument.Product
+        print('Analizando: ', doc.PartNumber, ' (', i, '/', len(matching), ')')
         weigth.append(float(doc.Analyze.Mass)*1000)
         density.append(float(doc.Analyze.Mass)/(float(doc.Analyze.Volume)*1e-9))
-        #print('Part Number de part:', doc.PartNumber, ', Weight: ', doc.Analyze.Mass)
         doc = CATIA.ActiveDocument.Part
         for i in range(doc.Parameters.Count):
             if 'Material' in doc.Parameters.Item(i+1).Name:
@@ -66,9 +66,13 @@ def Extract_Properties(df, main_path):
                 break
         CATIA.ActiveDocument.Close()
 
+    # Cargar informacion en dataframe
     df['Material'] = material
     df['Weigth (grams)'] = weigth
     df['Density kg/m^3'] = density
+    
+    # Save excel
+    df.to_excel(r'C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\S1\IGA\PBL\PBL_paneles\4_GUI\output.xlsx')  
 
     return(df)
 
@@ -78,10 +82,7 @@ main_path = r"C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\
 
 # Find the part number path
 df = pd.read_excel (r'C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\S1\IGA\PBL\PBL_paneles\4_GUI\bom.xls')
-
-# Execute function
-df = Extract_Properties(df, main_path)
-
 print(df)
 
-df.to_excel(r'C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\S1\IGA\PBL\PBL_paneles\4_GUI\output.xlsx')  
+## Execute function
+df = Extract_Properties(df, main_path)
