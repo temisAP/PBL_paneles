@@ -26,30 +26,31 @@ subdir = [dI for dI in os.listdir(main_path) if os.path.isdir(os.path.join(main_
 
 # Remove .git and gui
 subdir = subdir[1:len(subdir)-1]
-print('Subdirecoties: ', subdir)
+# print('Subdirecoties: ', subdir)
 
 subdir_path = []
 for i in range(len(subdir)):
     subdir_path.append(os.path.join(main_path, subdir[i]))
-print(subdir_path)
+# print('Subdir path: ', subdir_path)
 
 
 # List of files in a directory 
-#for root, dirs, files in os.walk(r"C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\S1\IGA\PBL\PBL_paneles\40\401"):
-for root, dirs, files in os.walk(subdir_path[1]):
-    print('Root: ',root)
-    for filename in files:
-        print(filename)
-        #catia.Documents.Open(filename)
-        break
+parts_path = []
+for subdir in subdir_path:
+    for root, dirs, files in os.walk(subdir):
+        #print('Root: ',root)
+        for filename in files:
+            parts_path.append(os.path.join(root, filename))
+            print(os.path.join(root, filename))
+
 
 
 # Activate document
 #catia.Documents.Open(r'C:\Users\danie\OneDrive - Universidad Politécnica de Madrid\MUSE\S1\IGA\PBL\PBL_paneles\40\401\401_01.CATProduct')
 
-doc = catia.ActiveDocument.Product
-for i in range(doc.Products.Count):
-    print('Part Number:', doc.Products.Item(i+1).PartNumber, ', Weight: ', doc.Products.Item(i+1).Analyze.Mass)
+#doc = catia.ActiveDocument.Product
+#for i in range(doc.Products.Count):
+#    print('Part Number:', doc.Products.Item(i+1).PartNumber, ', Weight: ', doc.Products.Item(i+1).Analyze.Mass)
 
 
 
