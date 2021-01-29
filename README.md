@@ -87,11 +87,11 @@ Harness
       471: Aluminium pannel harness #1
       472: Aluminium pannel harness #2
       473: 
-      474: Fake harness 1 (composite panel)
+      474: Composite panel harness #2
       475: Aluminium pannel connectors
       476: Aluminium pannel harness #3
       477: Aluminium pannel harness #4
-      478: Fake harness 2 (composite panel)
+      478: Composite panel harness #2
 
 Hardware
 
@@ -206,7 +206,7 @@ Harness
 
       473_01: Terminal block
 
-      474_01: Fake harness 1 (Composite panel)
+      474_01: Composite panel harness #1
 
       475_01: Clamp
       475_02: https://www.harwin.com/products/G125-2240696F1/
@@ -234,7 +234,7 @@ Harness
       477_10: Wire 3
       477_11: Wire 4
 
-      478_01: Fake harness 2 (Composite panel)
+      478_01: Composite panel harness #2
 
 
 
