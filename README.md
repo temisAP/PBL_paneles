@@ -49,8 +49,9 @@ Solar panels assemly
 
 Solar panels
 
-      411: Sandwich panel
+      411: Sandwich panel (right inserts in upper fiber)
       412: Aluminium panel
+      413: Sandwich panel (left inserts in upper fiber) 
 
 Release mechanism
 
@@ -101,16 +102,17 @@ Hardware
 
 Solar panels
 
-      401_01: Sandwitch panel with cells
+      401_01: Sandwich panel with cells (right inserts in upper fiber)
       401_02: Cupon with screws
       401_03: Aluminium panel with cupons
+      401_04: Sandwich panel with cells (left inserts in upper fiber)
 
 
 Solar panels
 
-      411_01: Honeycomb core
-      411_02: Upper Carbon Fiber
-      411_03: Lower Carbon Fiber
+      411_01: Honeycomb core (right inserts in upper fiber)
+      411_02: Upper Carbon Fiber (right inserts in upper fiber)
+      411_03: Lower Carbon Fiber (right inserts in upper fiber)
       411_04: Insert Shur-Lok SL644
       411_05: Potting compound
       411_06: Release insert
@@ -118,7 +120,11 @@ Solar panels
       
       412_01: Aluminium panel
       
+      413_01: Honeycomb core (left inserts in upper fiber)
+      413_02: Upper Carbon Fiber (left inserts in upper fiber)
+      413_03: Lower Carbon Fiber (left inserts in upper fiber)
 
+      
 Release mechanism
 
       421_01: Base
