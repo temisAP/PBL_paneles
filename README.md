@@ -117,6 +117,8 @@ Solar panels
       411_05: Potting compound
       411_06: Release insert
       411_07: Release potting compound
+      411_08: Release insert bolt
+      411_09: Release potting compound bolt
       
       412_01: Aluminium panel
       
