@@ -56,7 +56,8 @@ Solar panels
 Release mechanism
 
       42: 421
-      421: deployment
+      421: Satellite deployment 
+      422: Panels deployment
       
 
 SADA mechanism
@@ -127,13 +128,22 @@ Solar panels
       413_03: Lower Carbon Fiber (left inserts in upper fiber)
 
       
-Release mechanism
+Release mechanism between triangular support and satellite
 
       421_01: Base
       421_02: Claw
       421_03: Spring
       421_04: Spring2
       421_05: Parameters
+      
+Release mechanism between panels
+
+
+      422_01: Base
+      422_02: Claw
+      422_03: Spring
+      422_04: Spring2
+      422_05: Parameters
   
 SADA mechanism
 
