@@ -57,7 +57,8 @@ Release mechanism
 
       42: 421
       421: Satellite deployment 
-      422: Panels deployment
+      422: Sandwich Panels deployment 
+      423: Aluminium Panels deployment
       
 
 SADA mechanism
@@ -135,8 +136,10 @@ Release mechanism between triangular support and satellite
       421_03: Spring
       421_04: Spring2
       421_05: Parameters
+      421_06: Bolts
+      421_07: Helicoil
       
-Release mechanism between panels
+Release mechanism between sandwich panels
 
 
       422_01: Base
@@ -144,7 +147,18 @@ Release mechanism between panels
       422_03: Spring
       422_04: Spring2
       422_05: Parameters
-  
+      422_06: Bolts
+      
+Release mechanism between Aluminium Panels deployment
+
+
+      423_01: Base
+      423_02: Claw
+      423_03: Spring
+      423_04: Spring2
+      423_05: Parameters 
+      423_06: Bolts & nuts
+      
 SADA mechanism
 
       431_01: Motor
