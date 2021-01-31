@@ -157,7 +157,9 @@ Release mechanism between Aluminium Panels deployment
       423_03: Spring
       423_04: Spring2
       423_05: Parameters 
-      423_06: Bolts & nuts
+      423_06: Bolts
+      423_07: Nuts
+      428_08: Washer
       
 SADA mechanism
 
