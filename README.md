@@ -59,6 +59,7 @@ Release mechanism
       421: Satellite deployment 
       422: Sandwich Panels deployment 
       423: Aluminium Panels deployment
+      424: Triangular support-panels
       
 
 SADA mechanism
@@ -138,6 +139,7 @@ Release mechanism between triangular support and satellite
       421_05: Parameters
       421_06: Bolts
       421_07: Helicoil
+      421_08: Washer
       
 Release mechanism between sandwich panels
 
@@ -148,8 +150,9 @@ Release mechanism between sandwich panels
       422_04: Spring2
       422_05: Parameters
       422_06: Bolts
+      422_08: Washer
       
-Release mechanism between Aluminium Panels deployment
+Release mechanism between aluminium panels deployment
 
 
       423_01: Base
@@ -159,7 +162,18 @@ Release mechanism between Aluminium Panels deployment
       423_05: Parameters 
       423_06: Bolts
       423_07: Nuts
-      428_08: Washer
+      423_08: Washer
+
+Release mechanism between triangular support and panels
+
+      424_01: Base
+      424_02: Claw
+      424_03: Spring
+      424_04: Spring2
+      424_05: Parameters 
+      424_06: Bolts
+      424_07: Nuts
+      424_08: Washer
       
 SADA mechanism
 
