@@ -1,0 +1,1 @@
+El fiche de parámetro del excel se encuentra en la carpeta PBL_paneles/40_Parameters.xls
