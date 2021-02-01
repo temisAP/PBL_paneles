@@ -15,7 +15,7 @@ to4 = 5;        % s
 tt = ts + td + to1 + to2 + to3 + to4;
 
 % Distancias y giros
-ds = 5;         % mm
+ds = 8;         % mm
 gd1 = 90;       % deg
 gd2 = 180;      % deg
 go1 = 90;       % deg
